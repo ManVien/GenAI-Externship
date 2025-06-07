@@ -1,0 +1,3 @@
+ERROR:root:ZeroDivisionError occured: float division by zero
+ERROR:root:ValueError occured: could not convert string to float: 'abc'
+ERROR:root:ValueError occured: could not convert string to float: 'abc'
